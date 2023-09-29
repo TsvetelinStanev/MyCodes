@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.exe
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.deps.json
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.runtimeconfig.json
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.dll
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.pdb
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.dll
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.pdb
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.genruntimeconfig.cache
