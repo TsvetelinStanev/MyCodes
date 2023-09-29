@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\bin\Debug\netcoreapp3.1\basketball equipment.exe
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\bin\Debug\netcoreapp3.1\basketball equipment.deps.json
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\bin\Debug\netcoreapp3.1\basketball equipment.runtimeconfig.json
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\bin\Debug\netcoreapp3.1\basketball equipment.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\bin\Debug\netcoreapp3.1\basketball equipment.dll
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\bin\Debug\netcoreapp3.1\basketball equipment.pdb
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\obj\Debug\netcoreapp3.1\basketball equipment.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\obj\Debug\netcoreapp3.1\basketball equipment.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\obj\Debug\netcoreapp3.1\basketball equipment.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\obj\Debug\netcoreapp3.1\basketball equipment.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\obj\Debug\netcoreapp3.1\basketball equipment.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\obj\Debug\netcoreapp3.1\basketball equipment.dll
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\obj\Debug\netcoreapp3.1\basketball equipment.pdb
+E:\FONTYS\Soft Uni\basketball equipment\basketball equipment\obj\Debug\netcoreapp3.1\basketball equipment.genruntimeconfig.cache
