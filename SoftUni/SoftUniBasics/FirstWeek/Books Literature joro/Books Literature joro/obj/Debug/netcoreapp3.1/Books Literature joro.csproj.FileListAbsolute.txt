@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\bin\Debug\netcoreapp3.1\Books Literature joro.exe
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\bin\Debug\netcoreapp3.1\Books Literature joro.deps.json
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\bin\Debug\netcoreapp3.1\Books Literature joro.runtimeconfig.json
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\bin\Debug\netcoreapp3.1\Books Literature joro.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\bin\Debug\netcoreapp3.1\Books Literature joro.dll
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\bin\Debug\netcoreapp3.1\Books Literature joro.pdb
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\obj\Debug\netcoreapp3.1\Books Literature joro.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\obj\Debug\netcoreapp3.1\Books Literature joro.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\obj\Debug\netcoreapp3.1\Books Literature joro.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\obj\Debug\netcoreapp3.1\Books Literature joro.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\obj\Debug\netcoreapp3.1\Books Literature joro.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\obj\Debug\netcoreapp3.1\Books Literature joro.dll
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\obj\Debug\netcoreapp3.1\Books Literature joro.pdb
+E:\FONTYS\Soft Uni\Books Literature joro\Books Literature joro\obj\Debug\netcoreapp3.1\Books Literature joro.genruntimeconfig.cache
