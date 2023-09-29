@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.exe
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.deps.json
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.runtimeconfig.json
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.dll
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.pdb
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.dll
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.pdb
+E:\FONTYS\Soft Uni\Aquarium\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.genruntimeconfig.cache
