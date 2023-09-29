@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radians to degrees", "Radians to degrees\Radians to degrees.csproj", "{62288A3A-859E-47A6-8437-AF5AC3BB5544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62288A3A-859E-47A6-8437-AF5AC3BB5544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62288A3A-859E-47A6-8437-AF5AC3BB5544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62288A3A-859E-47A6-8437-AF5AC3BB5544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62288A3A-859E-47A6-8437-AF5AC3BB5544}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C32763D-0918-4E0B-9D7F-4DB303EA9400}
+	EndGlobalSection
+EndGlobal

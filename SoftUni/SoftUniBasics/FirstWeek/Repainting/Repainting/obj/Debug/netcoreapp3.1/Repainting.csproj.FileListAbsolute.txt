@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\Repainting\Repainting\bin\Debug\netcoreapp3.1\Repainting.exe
+E:\FONTYS\Soft Uni\Repainting\Repainting\bin\Debug\netcoreapp3.1\Repainting.deps.json
+E:\FONTYS\Soft Uni\Repainting\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.json
+E:\FONTYS\Soft Uni\Repainting\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Repainting\Repainting\bin\Debug\netcoreapp3.1\Repainting.dll
+E:\FONTYS\Soft Uni\Repainting\Repainting\bin\Debug\netcoreapp3.1\Repainting.pdb
+E:\FONTYS\Soft Uni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.dll
+E:\FONTYS\Soft Uni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.pdb
+E:\FONTYS\Soft Uni\Repainting\Repainting\obj\Debug\netcoreapp3.1\Repainting.genruntimeconfig.cache

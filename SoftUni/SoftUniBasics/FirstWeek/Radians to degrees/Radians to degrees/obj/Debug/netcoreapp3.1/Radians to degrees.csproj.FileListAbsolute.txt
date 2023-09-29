@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\bin\Debug\netcoreapp3.1\Radians to degrees.exe
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\bin\Debug\netcoreapp3.1\Radians to degrees.deps.json
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\bin\Debug\netcoreapp3.1\Radians to degrees.runtimeconfig.json
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\bin\Debug\netcoreapp3.1\Radians to degrees.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\bin\Debug\netcoreapp3.1\Radians to degrees.dll
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\bin\Debug\netcoreapp3.1\Radians to degrees.pdb
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\obj\Debug\netcoreapp3.1\Radians to degrees.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\obj\Debug\netcoreapp3.1\Radians to degrees.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\obj\Debug\netcoreapp3.1\Radians to degrees.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\obj\Debug\netcoreapp3.1\Radians to degrees.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\obj\Debug\netcoreapp3.1\Radians to degrees.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\obj\Debug\netcoreapp3.1\Radians to degrees.dll
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\obj\Debug\netcoreapp3.1\Radians to degrees.pdb
+E:\FONTYS\Soft Uni\Radians to degrees\Radians to degrees\obj\Debug\netcoreapp3.1\Radians to degrees.genruntimeconfig.cache
