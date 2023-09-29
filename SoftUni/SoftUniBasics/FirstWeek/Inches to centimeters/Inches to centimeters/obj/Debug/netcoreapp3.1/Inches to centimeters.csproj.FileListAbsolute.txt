@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\bin\Debug\netcoreapp3.1\Inches to centimeters.exe
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\bin\Debug\netcoreapp3.1\Inches to centimeters.deps.json
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\bin\Debug\netcoreapp3.1\Inches to centimeters.runtimeconfig.json
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\bin\Debug\netcoreapp3.1\Inches to centimeters.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\bin\Debug\netcoreapp3.1\Inches to centimeters.dll
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\bin\Debug\netcoreapp3.1\Inches to centimeters.pdb
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\obj\Debug\netcoreapp3.1\Inches to centimeters.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\obj\Debug\netcoreapp3.1\Inches to centimeters.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\obj\Debug\netcoreapp3.1\Inches to centimeters.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\obj\Debug\netcoreapp3.1\Inches to centimeters.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\obj\Debug\netcoreapp3.1\Inches to centimeters.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\obj\Debug\netcoreapp3.1\Inches to centimeters.dll
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\obj\Debug\netcoreapp3.1\Inches to centimeters.pdb
+E:\FONTYS\Soft Uni\Inches to centimeters\Inches to centimeters\obj\Debug\netcoreapp3.1\Inches to centimeters.genruntimeconfig.cache

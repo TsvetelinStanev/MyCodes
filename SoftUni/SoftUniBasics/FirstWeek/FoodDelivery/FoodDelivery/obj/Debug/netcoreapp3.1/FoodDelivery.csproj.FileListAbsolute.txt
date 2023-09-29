@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.exe
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.deps.json
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.runtimeconfig.json
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.dll
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.pdb
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.dll
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.pdb
+E:\FONTYS\Soft Uni\FoodDelivery\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.genruntimeconfig.cache
