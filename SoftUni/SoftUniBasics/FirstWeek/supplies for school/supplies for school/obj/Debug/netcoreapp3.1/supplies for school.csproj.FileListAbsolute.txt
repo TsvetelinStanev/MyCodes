@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\bin\Debug\netcoreapp3.1\supplies for school.exe
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\bin\Debug\netcoreapp3.1\supplies for school.deps.json
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\bin\Debug\netcoreapp3.1\supplies for school.runtimeconfig.json
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\bin\Debug\netcoreapp3.1\supplies for school.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\bin\Debug\netcoreapp3.1\supplies for school.dll
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\bin\Debug\netcoreapp3.1\supplies for school.pdb
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\obj\Debug\netcoreapp3.1\supplies for school.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\obj\Debug\netcoreapp3.1\supplies for school.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\obj\Debug\netcoreapp3.1\supplies for school.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\obj\Debug\netcoreapp3.1\supplies for school.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\obj\Debug\netcoreapp3.1\supplies for school.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\obj\Debug\netcoreapp3.1\supplies for school.dll
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\obj\Debug\netcoreapp3.1\supplies for school.pdb
+E:\FONTYS\Soft Uni\supplies for school\supplies for school\obj\Debug\netcoreapp3.1\supplies for school.genruntimeconfig.cache

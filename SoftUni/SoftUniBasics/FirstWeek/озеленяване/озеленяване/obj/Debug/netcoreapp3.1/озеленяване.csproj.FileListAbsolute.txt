@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\obj\Debug\netcoreapp3.1\озеленяване.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\obj\Debug\netcoreapp3.1\озеленяване.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\obj\Debug\netcoreapp3.1\озеленяване.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\obj\Debug\netcoreapp3.1\озеленяване.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\obj\Debug\netcoreapp3.1\озеленяване.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\bin\Debug\netcoreapp3.1\озеленяване.exe
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\bin\Debug\netcoreapp3.1\озеленяване.deps.json
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\bin\Debug\netcoreapp3.1\озеленяване.runtimeconfig.json
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\bin\Debug\netcoreapp3.1\озеленяване.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\bin\Debug\netcoreapp3.1\озеленяване.dll
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\bin\Debug\netcoreapp3.1\озеленяване.pdb
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\obj\Debug\netcoreapp3.1\озеленяване.dll
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\obj\Debug\netcoreapp3.1\озеленяване.pdb
+E:\FONTYS\Soft Uni\озеленяване\озеленяване\obj\Debug\netcoreapp3.1\озеленяване.genruntimeconfig.cache

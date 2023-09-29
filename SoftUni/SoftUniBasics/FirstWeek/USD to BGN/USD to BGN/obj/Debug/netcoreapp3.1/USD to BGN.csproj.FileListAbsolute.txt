@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.exe
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.deps.json
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.runtimeconfig.json
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.dll
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\bin\Debug\netcoreapp3.1\USD to BGN.pdb
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.dll
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.pdb
+E:\FONTYS\Soft Uni\USD to BGN\USD to BGN\obj\Debug\netcoreapp3.1\USD to BGN.genruntimeconfig.cache
