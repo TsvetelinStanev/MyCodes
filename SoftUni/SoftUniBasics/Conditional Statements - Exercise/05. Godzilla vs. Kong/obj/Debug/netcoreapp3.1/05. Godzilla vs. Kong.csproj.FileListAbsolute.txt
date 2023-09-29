@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.exe
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.deps.json
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.runtimeconfig.json
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.dll
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.pdb
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.dll
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.pdb
+E:\FONTYS\Soft Uni\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.genruntimeconfig.cache
