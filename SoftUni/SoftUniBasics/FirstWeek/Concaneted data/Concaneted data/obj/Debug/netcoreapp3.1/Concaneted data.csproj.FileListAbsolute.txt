@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\bin\Debug\netcoreapp3.1\Concaneted data.exe
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\bin\Debug\netcoreapp3.1\Concaneted data.deps.json
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\bin\Debug\netcoreapp3.1\Concaneted data.runtimeconfig.json
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\bin\Debug\netcoreapp3.1\Concaneted data.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\bin\Debug\netcoreapp3.1\Concaneted data.dll
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\bin\Debug\netcoreapp3.1\Concaneted data.pdb
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\obj\Debug\netcoreapp3.1\Concaneted data.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\obj\Debug\netcoreapp3.1\Concaneted data.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\obj\Debug\netcoreapp3.1\Concaneted data.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\obj\Debug\netcoreapp3.1\Concaneted data.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\obj\Debug\netcoreapp3.1\Concaneted data.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\obj\Debug\netcoreapp3.1\Concaneted data.dll
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\obj\Debug\netcoreapp3.1\Concaneted data.pdb
+E:\FONTYS\Soft Uni\Concaneted data\Concaneted data\obj\Debug\netcoreapp3.1\Concaneted data.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+E:\FONTYS\Soft Uni\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+E:\FONTYS\Soft Uni\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+E:\FONTYS\Soft Uni\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+E:\FONTYS\Soft Uni\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+E:\FONTYS\Soft Uni\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+E:\FONTYS\Soft Uni\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+E:\FONTYS\Soft Uni\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
