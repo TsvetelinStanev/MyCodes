@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\bin\Debug\netcoreapp3.1\01. Day of week.exe
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\bin\Debug\netcoreapp3.1\01. Day of week.deps.json
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\bin\Debug\netcoreapp3.1\01. Day of week.runtimeconfig.json
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\bin\Debug\netcoreapp3.1\01. Day of week.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\bin\Debug\netcoreapp3.1\01. Day of week.dll
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\bin\Debug\netcoreapp3.1\01. Day of week.pdb
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.dll
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.pdb
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\01. Day of week\obj\Debug\netcoreapp3.1\01. Day of week.genruntimeconfig.cache

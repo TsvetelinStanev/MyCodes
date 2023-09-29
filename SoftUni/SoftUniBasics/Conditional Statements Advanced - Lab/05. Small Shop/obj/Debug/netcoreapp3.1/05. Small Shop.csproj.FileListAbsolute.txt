@@ -1,0 +1,14 @@
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.exe
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.deps.json
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.json
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.dll
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.pdb
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.dll
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.pdb
+E:\FONTYS\Soft Uni\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.genruntimeconfig.cache
