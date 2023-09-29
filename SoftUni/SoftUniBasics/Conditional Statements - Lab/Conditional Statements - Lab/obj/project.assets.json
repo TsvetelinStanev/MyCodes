@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Greater Number/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Greater Number.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Greater Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Greater Number/1.0.0": {
+      "type": "project",
+      "path": "../Greater Number/Greater Number.csproj",
+      "msbuildProject": "../Greater Number/Greater Number.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Greater Number >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Legion\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\FONTYS\\Soft Uni\\Conditional Statements - Lab\\Conditional Statements - Lab\\Conditional Statements - Lab.csproj",
+      "projectName": "Conditional Statements - Lab",
+      "projectPath": "E:\\FONTYS\\Soft Uni\\Conditional Statements - Lab\\Conditional Statements - Lab\\Conditional Statements - Lab.csproj",
+      "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+      "outputPath": "E:\\FONTYS\\Soft Uni\\Conditional Statements - Lab\\Conditional Statements - Lab\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "E:\\FONTYS\\Soft Uni\\Conditional Statements - Lab\\Greater Number\\Greater Number.csproj": {
+              "projectPath": "E:\\FONTYS\\Soft Uni\\Conditional Statements - Lab\\Greater Number\\Greater Number.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

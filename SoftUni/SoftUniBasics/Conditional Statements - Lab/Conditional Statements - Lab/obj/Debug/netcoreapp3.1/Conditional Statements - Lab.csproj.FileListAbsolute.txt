@@ -1,0 +1,21 @@
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\obj\Debug\netcoreapp3.1\Conditional Statements - Lab.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\obj\Debug\netcoreapp3.1\Conditional Statements - Lab.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\obj\Debug\netcoreapp3.1\Conditional Statements - Lab.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\obj\Debug\netcoreapp3.1\Conditional Statements - Lab.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\obj\Debug\netcoreapp3.1\Conditional Statements - Lab.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\bin\Debug\netcoreapp3.1\Conditional Statements - Lab.exe
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\bin\Debug\netcoreapp3.1\Conditional Statements - Lab.deps.json
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\bin\Debug\netcoreapp3.1\Conditional Statements - Lab.runtimeconfig.json
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\bin\Debug\netcoreapp3.1\Conditional Statements - Lab.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\bin\Debug\netcoreapp3.1\Conditional Statements - Lab.dll
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\bin\Debug\netcoreapp3.1\Conditional Statements - Lab.pdb
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\obj\Debug\netcoreapp3.1\Conditional Statements - Lab.dll
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\obj\Debug\netcoreapp3.1\Conditional Statements - Lab.pdb
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\obj\Debug\netcoreapp3.1\Conditional Statements - Lab.genruntimeconfig.cache
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\bin\Debug\netcoreapp3.1\Greater Number.deps.json
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\bin\Debug\netcoreapp3.1\Greater Number.runtimeconfig.json
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\bin\Debug\netcoreapp3.1\Greater Number.runtimeconfig.dev.json
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\bin\Debug\netcoreapp3.1\Greater Number.exe
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\bin\Debug\netcoreapp3.1\Greater Number.dll
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\bin\Debug\netcoreapp3.1\Greater Number.pdb
+E:\FONTYS\Soft Uni\Conditional Statements - Lab\Conditional Statements - Lab\obj\Debug\netcoreapp3.1\Conditional Statements - Lab.csproj.CopyComplete
