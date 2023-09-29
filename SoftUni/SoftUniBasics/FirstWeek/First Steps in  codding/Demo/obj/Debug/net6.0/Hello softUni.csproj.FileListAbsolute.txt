@@ -1,0 +1,15 @@
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\bin\Debug\net6.0\Hello softUni.exe
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\bin\Debug\net6.0\Hello softUni.deps.json
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\bin\Debug\net6.0\Hello softUni.runtimeconfig.json
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\bin\Debug\net6.0\Hello softUni.dll
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\bin\Debug\net6.0\Hello softUni.pdb
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\obj\Debug\net6.0\Hello softUni.csproj.AssemblyReference.cache
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\obj\Debug\net6.0\Hello softUni.GeneratedMSBuildEditorConfig.editorconfig
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\obj\Debug\net6.0\Hello softUni.AssemblyInfoInputs.cache
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\obj\Debug\net6.0\Hello softUni.AssemblyInfo.cs
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\obj\Debug\net6.0\Hello softUni.csproj.CoreCompileInputs.cache
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\obj\Debug\net6.0\Hello softUni.dll
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\obj\Debug\net6.0\refint\Hello softUni.dll
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\obj\Debug\net6.0\Hello softUni.pdb
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\obj\Debug\net6.0\Hello softUni.genruntimeconfig.cache
+E:\FONTYS\Soft Uni\First Steps in  codding\Demo\obj\Debug\net6.0\ref\Hello softUni.dll
